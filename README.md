@@ -1,6 +1,6 @@
 # EcoLatté: Sip Smarter, Spend Less
 
-![EcoLatté Cup](images/ecolatte-cup.jpg) <!-- Replace with your actual image path or URL -->
+![EcoLatté]("C:\Users\vanes\OneDrive\Pictures\ecolatte.png")
 
 What if your coffee could help save the planet?!
 
