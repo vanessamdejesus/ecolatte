@@ -1,6 +1,5 @@
 # EcoLatté: Sip Smarter, Spend Less
 
-![EcoLatté]("C:\Users\vanes\OneDrive\Pictures\ecolatte.png")
 
 What if your coffee could help save the planet?!
 
